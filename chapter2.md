@@ -2,7 +2,7 @@
 title       : Python lists
 description : Insert the chapter description here
 
---- type:NormalExercise lang:python xp:100 skills:1 key:e3d2e9d17g
+--- type:NormalExercise lang:python xp:100 skills:1 key:c925563ffc
 ## Lists
 
 Create a list `new_list` in Python, containing the elements 1, 2 and the string "a"
