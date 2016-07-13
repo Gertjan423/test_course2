@@ -45,7 +45,7 @@ success_msg("Well done!")
 ```
 
 --- type:NormalExercise lang:python xp:100 skills:1 key:c1f82cc66e
-## Lists
+## Lists2
 
 Create a list `new_list` in Python, containing the elements 1, 2 and the string "a"
 
