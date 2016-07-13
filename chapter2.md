@@ -1,5 +1,5 @@
 ---
-title       : Python list
+title       : Python lists
 description : Insert the chapter description here
 
 --- type:NormalExercise lang:python xp:100 skills:1 key:e3d2e9d17g
