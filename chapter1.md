@@ -24,7 +24,7 @@ Have a look at the plot. Do you see a trend in the dots?
 # You can use it to load packages, initialize datasets and draw a plot in the viewer
 
 import pandas as pd
-import matplotlib.pyplot as plt
+imrt matplotlib.pyplot as plt
 
 movies = pd.read_csv("http://s3.amazonaws.com/assets.datacamp.com/course/introduction_to_r/movies.csv")
 
