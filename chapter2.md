@@ -44,7 +44,7 @@ test_object("new_list",
 success_msg("Well done!")
 ```
 
---- type:NormalExe  lang:python xp:100 skills:1 key:8e691ef3d1
+--- type:NormalExercise  lang:python xp:100 skills:1 key:8e691ef3d1
 ## Lists2
 
 Create a list `new_list` in Python, containing the elements 1, 2 and the string "a"
