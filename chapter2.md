@@ -72,7 +72,7 @@ new_list = [1, 2, "a"]
 *** =sct
 ```{python}
 test_object("new_list",
-            undefined_msg = "Don't forget to initialize `new_list`",
+            undefined_msg = "Don't forget to initialize "new_list"",
             incorrect_msg = "The list should contain the elements 1, 2 and the string 'a'")
 
 success_msg("Well done!")
