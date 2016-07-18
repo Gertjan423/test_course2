@@ -4,7 +4,7 @@ description : Insert the chapter description here
 
 --- type:NormalExercise lang:python xp:100 skills:1 key:c925563fdd
 ## Lists
-
+ 
 Create a list `new_list` in Python, containing the elements 1, 2 and the string "a"
  
 *** =instructions  
