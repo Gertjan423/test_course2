@@ -6,7 +6,7 @@ description : Insert the chapter description here
 ## Lists
 
 Create a list `new_list` in Python, containing the elements 1, 2 and the string "a"
-
+ 
 *** =instructions  
 - A list in python is created using the `[]` operator. 
 - The list can be initialized as an empty list, or can contain initial values by providing them in the initialization operator.
