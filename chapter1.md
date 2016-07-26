@@ -5,6 +5,10 @@ description : Insert the chapter description here
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:f12a3dfab7
 ## A really bad movie
 
+$X1 + X2 = X3$
+
+$A = B_i$, $B = C^j$ and $$C = D_i^j$$
+
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
 
 *** =instructions
