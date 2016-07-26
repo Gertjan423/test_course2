@@ -7,7 +7,7 @@ description : Insert the chapter description here
 
 $X1 + X2 = X3$
 
-$A = B_i$, $B = C^j$ and $$C = D_i^j$$
+$A = B\_i$, $B = C^j$ and $$C = D\_i^j$$
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
 
