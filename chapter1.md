@@ -5,10 +5,6 @@ description : Insert the chapter description here
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:f12a3dfab7
 ## A really bad movie
 
-$X1 + X2 = X3$
-
-$A = B\_i$, $B = C^j$ and $$C = D\_i^j$$
-
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
 
 *** =instructions
@@ -43,7 +39,7 @@ msg_success = "Exactly! The correlation is very weak though."
 test_mc(4, [msg_bad, msg_bad, msg_bad, msg_success])
 ```
 
---- type:NormalExer lang:python xp:100 skills:1 key:e3d2e9d17f
+--- type:NormalExercise lang:python xp:100 skills:1 key:e3d2e9d17f
 ## Plot the movies yourself
 
 Do you remember the plot of the last exercise? Let's make an even cooler plot!
