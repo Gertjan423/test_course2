@@ -1,6 +1,6 @@
 ---
 title       : Python lists
-description : Insert the chapter description here
+description : Insert the chapter description here  
 
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:f12a3dfab7
 ## A really bad movie
